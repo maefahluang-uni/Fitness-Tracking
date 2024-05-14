@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "674909339822",
+    "firebase_url": "https://miniproject-a04ba-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "miniproject-a04ba",
+    "storage_bucket": "miniproject-a04ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674909339822:android:db153b565b30c2dc9cad3f",
+        "android_client_info": {
+          "package_name": "com.kittapas.maincode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC8hQTJXqCgFj9lsvl3SoGFwBuzPWElus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
